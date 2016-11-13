@@ -1,2 +1,2 @@
 # VSTeP
-VSTePの勉強会用
+VSTePユーザーグループの勉強会用
