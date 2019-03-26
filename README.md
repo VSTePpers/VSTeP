@@ -1,5 +1,6 @@
 # VSTePpersとは
-VSTePユーザーの総称
+VSTePユーザーの総称 
+
 VSTePユーザーの情報交換の場として活用してもらいたいです。
 
 ## VSTePとは
